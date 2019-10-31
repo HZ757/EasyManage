@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=department
+comment0.target=javax.swing.JPanel\ departmentOverview(Department)
+comment1.params=task
+comment1.target=javax.swing.JPanel\ taskOverview(Task)
+comment2.params=employee
+comment2.target=javax.swing.JPanel\ employeeOverview(Employee)
+comment3.params=company\ department
+comment3.target=Overview(Company,\ Department)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Overview\r\n
+comment4.params=
+comment4.target=void\ createGUI()
+comment5.params=
+comment5.target=javax.swing.JFrame\ getFrame()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=7

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Task()
+comment1.params=name\ description\ deadline
+comment1.target=Task(java.lang.String,\ java.lang.String,\ java.util.Date)
+comment10.params=s
+comment10.target=void\ setDeadline(java.lang.String)
+comment11.params=s
+comment11.target=void\ setStatus(java.lang.String)
+comment2.params=file
+comment2.target=Task(java.io.File)
+comment3.params=directory\ id
+comment3.target=void\ createFile(java.io.File,\ int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getDescription()
+comment6.params=
+comment6.target=java.lang.String\ getDeadline()
+comment7.params=
+comment7.target=java.lang.String\ getStatus()
+comment8.params=s
+comment8.target=void\ setName(java.lang.String)
+comment9.params=s
+comment9.target=void\ setDescription(java.lang.String)
+numComments=12

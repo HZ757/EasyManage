@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=department\ overview
+comment0.target=DepartmentInfo(Department,\ Overview)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EmployeeInfo\r\n
+comment1.params=employee
+comment1.target=void\ createGUI(Employee)
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=Department\ getDepartment()
+numComments=4

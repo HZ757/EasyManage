@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=directory\ name
+comment0.target=Company(java.io.File,\ java.lang.String)
+comment1.params=directory
+comment1.target=Company(java.io.File)
+comment2.params=
+comment2.target=void\ createFile()
+comment3.params=
+comment3.target=java.util.ArrayList\ getDepartmentsList()
+comment4.params=
+comment4.target=java.io.File\ getDirectory()
+comment5.params=department
+comment5.target=void\ addDepartment(java.lang.String)
+numComments=6

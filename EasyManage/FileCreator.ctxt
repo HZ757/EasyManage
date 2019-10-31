@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=company\ directory
+comment0.target=FileCreator(Company,\ java.io.File)
+comment1.params=
+comment1.target=void\ generateFile()
+comment2.params=file
+comment2.target=void\ deleteDirectory(java.io.File)
+numComments=3
